@@ -11,7 +11,7 @@ npx hardhat
 Then choose your project.
 
 If you are having any issue in Hardhat
-checkout thei official [docs](https://hardhat.org/docs).
+checkout their official [docs](https://hardhat.org/docs).
 
 Try running some of the following tasks:
 ```shell
